@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name BatteryModule)(type Legacy)(uri ${KIPRJMOD}/BatteryModule.lib)(options "")(descr ""))
+  (lib (name mcu)(type Legacy)(uri ${KIPRJMOD}/mcu.lib)(options "")(descr ""))
+  (lib (name transceivers)(type Legacy)(uri ${KIPRJMOD}/transceivers.lib)(options "")(descr ""))
+  (lib (name sensors)(type Legacy)(uri ${KIPRJMOD}/sensors.lib)(options "")(descr ""))
+)
