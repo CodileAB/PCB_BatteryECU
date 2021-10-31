@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Wolley Battery ECU"
+Date "2021-10-31"
+Rev "1.0"
+Comp "Knekt Technologies AB"
 Comment1 ""
 Comment2 ""
 Comment3 ""
