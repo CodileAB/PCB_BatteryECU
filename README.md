@@ -22,7 +22,7 @@ Key Components
 --------------
 
 | Component | Part | Details |
-| ----------| ---- | --------|
+| --------- | ---- | ------- |
 | MCU | Infineon XMC1404_F064X200A | ARM Cortex-M0, 32-bit, 48 MHz, 200 kB flash |
 | Step-down voltage regulator | TI LM22679TJ-5.0 | 42 V to 5 V switching regulator, 5 A |
 | CAN transceiver | Infineon TLE7251VSJ | |
