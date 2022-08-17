@@ -1,4 +1,4 @@
-19104886658118455
+19108345453820747
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -59696,7 +59696,7 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 4
 4
 PCB_BatteryModule
-BatteryContact_THT_Keystone_590
+Battery_AA_THT_Keystone_590
 
 
 0
@@ -59706,6 +59706,13 @@ PCB_BatteryModule
 C_0805_HandSoldering
 Capacitor SMD 0805, hand soldering
 capacitor 0805
+0
+2
+2
+PCB_BatteryModule
+C_2010_5025Metric_HandSoldering
+
+
 0
 2
 2
@@ -59759,7 +59766,14 @@ Surface mounted pin header SMD 2x04 2.54mm double row
 8
 8
 PCB_BatteryModule
-Power_Pinout
+Pinout
+
+
+0
+0
+0
+PCB_BatteryModule
+PlusSign_5mm_Soldermask
 
 
 0
@@ -59780,7 +59794,7 @@ QFP 0.5
 64
 64
 PCB_BatteryModule
-Version_Text
+Text_Wolley_BatteryECU_49mm_SilkScreen
 
 
 0
@@ -59794,7 +59808,7 @@ WAGO_2604-1104_PCB_Terminal_Block_4-Way
 8
 4
 PCB_BatteryModule
-WolletInterconnect_THT_Angeled
+WolleyInterconnect_THT_Angeled
 
 
 0

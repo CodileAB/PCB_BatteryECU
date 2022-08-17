@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF7303IPBF
+D 5.3A Id, 30V Vds, Dual N-Channel HEXFET, SO-8
+K Dual HEXFET N-Channel P-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-IRF7303-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a4015355f1c70a1afc
+$ENDCMP
+#
+#End Doc Library

@@ -3,4 +3,5 @@
   (lib (name mcu)(type Legacy)(uri ${KIPRJMOD}/mcu.lib)(options "")(descr ""))
   (lib (name transceivers)(type Legacy)(uri ${KIPRJMOD}/transceivers.lib)(options "")(descr ""))
   (lib (name sensors)(type Legacy)(uri ${KIPRJMOD}/sensors.lib)(options "")(descr ""))
+  (lib (name irf7303ipbf)(type Legacy)(uri ${KIPRJMOD}/irf7303ipbf.lib)(options "")(descr ""))
 )
