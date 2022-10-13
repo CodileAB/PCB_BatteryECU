@@ -1,4 +1,4 @@
-update=2021-11-06 19:32:52
+update=2022-10-07 22:01:54
 version=1
 last_client=kicad
 [general]
@@ -12,6 +12,16 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=C:/Users/Jack/Projekt/Wolley/Releases/PCB_BatteryECU_1_0/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -38,10 +48,12 @@ TrackWidth7=4
 TrackWidth8=5
 ViaDiameter1=0.8
 ViaDrill1=0.4
-ViaDiameter2=2
-ViaDrill2=1
-ViaDiameter3=4
-ViaDrill3=2
+ViaDiameter2=1
+ViaDrill2=0.5
+ViaDiameter3=2
+ViaDrill3=1
+ViaDiameter4=4
+ViaDrill4=2
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -247,13 +259,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=C:/Users/Jack/Projekt/Wolley/Releases/PCB_BatteryECU_1_0/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
