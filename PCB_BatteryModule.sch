@@ -1434,28 +1434,6 @@ F 3 "~" H 15150 7700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Transistor_FET:IRF7309IPBF Q4
-U 1 1 627C58D5
-P 14550 7550
-F 0 "Q4" H 14755 7596 50  0000 L CNN
-F 1 "IRF7309" H 14755 7505 50  0000 L CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 14750 7475 50  0001 L CNN
-F 3 "http://www.irf.com/product-info/datasheets/data/irf7309ipbf.pdf" H 14650 7550 50  0001 L CNN
-	1    14550 7550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:IRF7309IPBF Q4
-U 2 1 627C6398
-P 15050 7000
-F 0 "Q4" H 15255 7046 50  0000 L CNN
-F 1 "IRF7309" H 15255 6955 50  0000 L CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 15250 6925 50  0001 L CNN
-F 3 "http://www.irf.com/product-info/datasheets/data/irf7309ipbf.pdf" H 15150 7000 50  0001 L CNN
-	2    15050 7000
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0132
 U 1 1 627DFDED
 P 14650 7900
@@ -2194,4 +2172,26 @@ Wire Wire Line
 	13350 6000 13250 6000
 Wire Wire Line
 	13250 6000 13250 6250
+$Comp
+L Transistor_FET:IRF7309IPBF Q4
+U 1 1 627C58D5
+P 14550 7550
+F 0 "Q4" H 14755 7596 50  0000 L CNN
+F 1 "IRF7309" H 14755 7505 50  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 14750 7475 50  0001 L CNN
+F 3 "http://www.irf.com/product-info/datasheets/data/irf7309ipbf.pdf" H 14650 7550 50  0001 L CNN
+	1    14550 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:IRF7309IPBF Q4
+U 2 1 627C6398
+P 15050 7000
+F 0 "Q4" H 15255 7046 50  0000 L CNN
+F 1 "IRF7309" H 15255 6955 50  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 15250 6925 50  0001 L CNN
+F 3 "http://www.irf.com/product-info/datasheets/data/irf7309ipbf.pdf" H 15150 7000 50  0001 L CNN
+	2    15050 7000
+	1    0    0    1   
+$EndComp
 $EndSCHEMATC
