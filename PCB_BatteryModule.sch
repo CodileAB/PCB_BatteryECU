@@ -1445,9 +1445,9 @@ F 3 "" H 14650 7900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	14350 7550 14150 7550
+	14350 7550 14300 7550
 Wire Wire Line
-	14650 7850 14150 7850
+	14650 7850 14300 7850
 Wire Wire Line
 	14650 7750 14650 7850
 Wire Wire Line
@@ -2194,4 +2194,21 @@ F 3 "http://www.irf.com/product-info/datasheets/data/irf7309ipbf.pdf" H 15150 70
 	2    15050 7000
 	1    0    0    1   
 $EndComp
+$Comp
+L Device:R R18
+U 1 1 65B41F59
+P 14300 7700
+F 0 "R18" H 14370 7746 50  0000 L CNN
+F 1 "380K" H 14370 7655 50  0000 L CNN
+F 2 "PCB_BatteryModule:C_0805_HandSoldering" V 14230 7700 50  0001 C CNN
+F 3 "~" H 14300 7700 50  0001 C CNN
+	1    14300 7700
+	1    0    0    -1  
+$EndComp
+Connection ~ 14300 7550
+Wire Wire Line
+	14300 7550 14150 7550
+Connection ~ 14300 7850
+Wire Wire Line
+	14300 7850 14150 7850
 $EndSCHEMATC
