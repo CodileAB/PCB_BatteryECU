@@ -5,9 +5,9 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Wolley Battery ECU"
-Date "2023-02-26"
-Rev "2.1"
-Comp "Knekt Technologies AB"
+Date "2024-02-18"
+Rev "2.2"
+Comp "Knektium AB"
 Comment1 ""
 Comment2 ""
 Comment3 ""
