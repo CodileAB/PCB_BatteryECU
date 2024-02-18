@@ -1,4 +1,4 @@
-19110014120020984
+19113476211011412
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -59710,6 +59710,13 @@ Battery_AA_THT_Keystone_590
 6
 2
 PCB_BatteryModule
+CK_Switch_KSC_Series
+
+
+0
+4
+2
+PCB_BatteryModule
 C_0805_HandSoldering
 Capacitor SMD 0805, hand soldering
 capacitor 0805
@@ -59800,6 +59807,13 @@ QFP 0.5
 0
 64
 64
+PCB_BatteryModule
+Text_KnektiumLogo_8mm_SolderMask
+
+
+0
+0
+0
 PCB_BatteryModule
 Text_Wolley_BatteryECU_49mm_SilkScreen
 
